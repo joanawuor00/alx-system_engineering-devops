@@ -1,1 +1,0 @@
-shell init project
